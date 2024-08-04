@@ -1,0 +1,8 @@
+streamlit
+numpy
+pandas
+pyparsing
+streamlit_calendar
+itertools
+json
+requests
